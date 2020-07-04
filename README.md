@@ -1,1 +1,0 @@
-# Shooting-Star-Animation-Using-HTML-CSS
